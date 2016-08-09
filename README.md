@@ -6,5 +6,4 @@ at Villain's Academy
 ## How to use ##
 
 '''shell
-ruby directory.rb
-'''
+ruby directory.rb'''
